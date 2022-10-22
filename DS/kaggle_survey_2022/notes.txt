@@ -1,0 +1,14 @@
+1st Feature selection
+-We are going to work on These Features 
+	1.Are you currently a student?
+	2.In which country do you currently reside?
+	3.What is your gender?
+	4.What is your age (# years)?
+	5.What products or platforms did you find to be most helpful when you first started studying data science?
+	6.What is the highest level of formal education that you have attained or plan to attain within the next 2 years?
+	7.For how many years have you been writing code and/or programming?
+	8.What programming languages do you use on a regular basis? (Select all that apply)
+2nd Cleaning the Data
+3rd Ploting 
+4th Comparision 
+(We should write markdowns in deep)

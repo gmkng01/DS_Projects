@@ -1,0 +1,721 @@
+[
+  {
+    "windows": {
+      "1": {
+        "2": {
+          "id": 2,
+          "index": 0,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": true,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1920,
+          "height": 967,
+          "lastAccessed": 1663061857870,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://web.whatsapp.com/",
+          "title": "(7) WhatsApp",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAllBMVEUNw0IAAAD6+voNw0z////+/v76+vrt+u2A3Zz7+/ux7cNM3XWQ3ah13Zj6//r6+vr////D7cNg3YD///+H3aB13ZAww0www2BCw3Xd+u3t+vr+/v5g3Yf+/v76+vr+/v7////d7d37+/uc3bH6+vqA3aBCw2Dt+u36+vr8/PyA3Zj7+/v6//+o7cP+/v7////////6+vpu/Hw/AAAAMnRSTlP/AP///w3t//9C//////+xMP//oP////////+o/92kw5z/h//d///6oGD/w///mPpCqAT6W4QAAACwSURBVHicJU/VAsQwCGMZtZtv5+6u//9zB10ekJSkQImg3q74s3rXWgthOkaT5w24M0qYTZmnJEiHz40RYotMW0VWLhKqeSiPhffFmMjzl7q5zLc8czySmfmC7EDyeZd6nkgxsARRKGaNxhMIvvfjVpNHL5FZF78WyTpW4zKPvFtTgLpnpVrSHYEMlnFNDVNUCd2QTpexpQJHWf3qLoA7tMXLodLj7GMfws8Ctgp6/h+u7AjEh9toFgAAAABJRU5ErkJggg=="
+        },
+        "3": {
+          "id": 3,
+          "index": 1,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1920,
+          "height": 967,
+          "lastAccessed": 1663061827291,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://portfolio.smaranjitghose.com/index.html",
+          "title": "Come back",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUAAAD/yyP/ugNCqPU+pvQ1ofT+tQAwn/T+ySBHqvVMrPT3uw/+xRr3uAk5pPT+wxZQrvU4pPT4tAIrnfQqnfQmm/P+vQgmm/P/whFVsfX/vwz2ug34vRL0sgPxsw32rwDxqwBbqeVRpuf1twn5wBXvpwDuqQBLnt3uoABRq+//qgBHp/DvqgDuqABXsPP/mQDkrhY3kdYri9PvrQA6kNFroLPysAMtkdw5m+RCnOJSn9j//wAzjdHwrwBXntRUoNlRmciDopXwpwBCk9M+lNfwqAAnl+vzswXysgNVqv/xqwBVo+HLrzyZpn3wrQH3rwDqqAA0oPHwqABElNJantTysgXwqgD2uAv0rQD4vBExmehRntr/tgBapt71tQfysAN4oaEAVar/AACLoYrGrENUqeL/vwDiqQBVqqoA//8Af/8qitTYpSaNo4wAqv9bn9TXphP1tgeEmI5boNU4jc14oKH1uQ7zswhKoN++q03uqADxrAA0jNOIoJI3j9fxsADry6+4AAAAgHRSTlMA///////////////////////////4///////+/+n/+4T///76IDr/D/8F/3s1/wXg86RtdP+j5f/5FAGIw6tx8v8qVcpL/M/iBZD5//+t9Rn/RV+L/1TUy/H++Qv/+f8TAwHU/wkECQMBAhgU/wN+Gu4ZmiT/4a3//5q3HdsgdQpngkcAAAGjSURBVHicddAHU8IwFAdwAojVplar1tqyZKiAuPeegEzZG9x7T9xf3aQgJ17zrpd31//v8i5P1VBmwxD6Fhp//qmFNFsqsd4CERQMTLnM+AaJYD1LWa1U1k4EMRuQaGBzE8GERFsZWkoRwZseJpNQbyblI0sUHkGF9wlg0Adk4HUSgL0kA3C3QwBufRVI6wSQggDQCLBbBPBNIYBuoSYI4AVUAZgmPOIZAzQCpEcUwZYN3S7RaI6tXxH4IUVBhkEnO6SUnyyxEGIAIft+rADsBoFlBYbBp+H/qk434rdhXhAEkeNEURD56cv4xvZvev44uTm3OqrmeVHkOQ6fvHp0dW5z8usMxdcfi2OzWs1AUC0Xx1V7sKLRzo4tXuypxmdy0TatxrVWTWqAeXJptB3R3My4ytPZ3IRAy8ChDpfJJLfXSgsCTc1dHlV3DbimjCiImP0R1IxTrTXQUwetliujLuN2OvszOuOaRQG0W0ImecUxU8jSrgR6iwe7GNx/FnuVwXDfDQaJvmEiSGDwQAKOwPI8BvPLAUXgyK/Utn+0knfUwQ+b/0KfgjB5GQAAAABJRU5ErkJggg=="
+        },
+        "4": {
+          "id": 4,
+          "index": 2,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1662922432274,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.youtube.com/c/RealEyesOfficial/videos",
+          "title": "Real Eyes - YouTube",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABQVBMVEX/AAAAAAD////////+4eH+ICD+Bwf/FBT/6+v/////Fhb+BwfYAAD/AACdIiL+Bwe2ISHYAAD+6OjdISHsBwflBwf+5OT/7e3ICAjmBwf/+/v+ICDOAAD/7+//Bwf/eHjbAADoAAC8AABHAADTICD/m5v/39+CAAD/JCT/8vLnAAD/ERH/AAD/29v/ZmZSAAAXAAD/ICDYAACnAAAnExP/zMz/RERoJCRvICDRAAA/Pz/eICByCQkqAACPAABmAADlAAD/dHQqAAD3ICDHAAC9AADhAAD+Bwf/qqquCAj/S0v/AgLlAAB+BwcnAACXAADHAACwAADlAACKAAD/UlL/GxszAADeAAC0CAj/KipGAAC0AADUAADMAADmAADlAAAvAACqAADYISHiICD+4uL/z8//np7+ICBRAADmAAD/ICBP7meqAAAAa3RSTlP/AP8DGtby//8B/+zZ/WrmitQWsODJEw621//Owf///8bmoCue/whv///V/wH//z4LxcKXDf//MT65BLpVHntS3f8Gwruqzu//lP//1GENh7Kg5Xb//wXZmv8zocK20uMbnKC9Cf//0ULZyTzE/y4AAAEFSURBVHicxZPXcsIwEEWv5SQESIDQSwjpvffeE9J7pff2/x+AGTzDWsLmDc7b7j3SrEYSpA50WTDLTcy8sGdz5Fz5jVC5XyVUuzpyTTts+4oKaf19GHqMnkhYntSNFTYvEdNf36CCOcMcp9gyFuJ4I5UlssQL1xinQnDlixNuMUIq0yBjd/MaoYohTmDhizHSSosCY8WHVmsCv6IQXqWCuMPMN2l9CEPu7GqGPNcc0xRciNAJFVJIkspS+tfGyn0iS6pHPgZu8Ck2Ka9YMxbO8HNglC++QMok9POnqcajPTy+93sCbrs1OqAStdrdAY//73m79ezlgs/r7FNxen2zcm++XlvqaQ0ax0vLu20AAAAASUVORK5CYII="
+        },
+        "5": {
+          "id": 5,
+          "index": 3,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": true,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1662854144160,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "moz-extension://91987af9-2e2b-4ac4-99a3-2fa131012657/view.html",
+          "title": "Panorama View",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAoklEQVQ4T2Pk4uIyZmRkrGdiYpJiwAL+////+cuXL44gKR4engNAtTwg9r9//54B5RoZubm5NwM1S2LTDBP7/PmzCYjNy8t7BlkdyBBGdEFsBuEyAKR2OBiAHLI4YgEYCV8c0GMBxAfGwhdGfKFPjBzlBqB7AVfCwZXIsEYjvnhHN2g4GIAtHRAbBsDM9JwRmp0bYDkSlDhwJRy0nPgcqLYBAI3yc7kglT46AAAAAElFTkSuQmCC"
+        },
+        "6": {
+          "id": 6,
+          "index": 4,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1662917802235,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.youtube.com/watch?v=J73mvgG9fFs&t=379s",
+          "title": "Handling Date and Time Variables | Day 34 | 100 Days of Machine Learning - YouTube",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABQVBMVEX/AAAAAAD////////+4eH+ICD+Bwf/FBT/6+v/////Fhb+BwfYAAD/AACeISH+Bwe2ISHYAAD+6OjdISHsBwflBwf+5OT/7e3ICAjmBwf/+/v+ICDOAAD/7+//Bwf/eHjbAADoAAC8AABSAADTICD/m5v/AAD/JCT/8vLlAAD/ERGCAAD/29v/ZmZHAAAqAAD/ICDYAACnAAAnExP/zMz/RERoJCRvICDMAAA/Pz/eICByCQn/398qAACPAABmAADnAAD/dHQXAAD3ICDRAAC9AADhAAD+Bwf/qqquCAj/S0v/AgLeAAB+BwcnAACXAADHAACwAADlAACKAAD/UlL/GxszAADlAAD/Kiq0CAhGAAC0AADUAADHAADmAADlAAAvAACqAADYISHiICD+4uL/z8//np7+ICBRAADmAAD/ICBj2ZHFAAAAa3RSTlP/AP8DGtby//8B/+zZ/WrmitQWsODJEw+21//Owf///8bmoD6e/wH//93/b///KwbFwpcN//8xPrYEulUIHntS1f8Lwrmqzu//lP//2WENh7Kg5Xb//wXU/5ozocK70uMbnKC9Cf//0ULZyXa09SIAAAEFSURBVHicxZPXcsIwEEWv5SQESIDQSwjpvffeE9J7pff2/x+AGTzDWsLmDc7b7j3SrEYSpA50WTDLTcy8sGtz5Fz59VC5XyVUuzp0TTtse4oK6fJ9GHqMnkiYndSNFTbWENNf36CCJcMcp9g0FuJ4I5UlssgLSYxTIbj8xQm3GCGVaZCxuzmNUMUQJ7DwxRhppUWBseJDqzWBJ1EIr1BB3GHmm7Q+hCG3dzRDLmiOaQrOR+iECinsk8pS+tPGyn0iS6pHPgZu8Ck2Ka+YMhbO8HNtlJ+/QMok9PPf1cajPTi693sCbrs1OqAStdrdAY///3mr9ezlgs/r7FNxen3Hcm++XlvqNqQax4As9ioAAAAASUVORK5CYII="
+        },
+        "7": {
+          "id": 7,
+          "index": 5,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1662914622151,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.youtube.com/watch?v=z-biUumQxlw&list=PLL34mf651faPOf5PE5YjYgTRITzVzzvMz&index=9",
+          "title": "(1) Selenium Python Tutorial #8 - How to Run Selenium Test in Chrome - YouTube",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABQVBMVEX/AAAAAAD////////+4eH+ICD+Bwf/FBT/6+v/////Fhb+BwfYAAD/AACeISH+ICD+Bwe2ISHYAAD+6OjdISHsBwflBwf+5OT/7e3ICAjmBwf/+/vOAAD/7+//Bwf/eHjbAADoAAC0AABGAADTICD/m5v/39//AAD/JCT/8vLlAAD/ERGCAAD/29v/ZmZSAAAqAADYAACnAAAnExP/zMz/RERoJCRyCQnMAAA/Pz/eICBvICAvAACPAABmAADnAAD/dHQXAAD3ICDRAAC9AADhAAD+Bwf/qqquCAj/S0v/AgLlAAB+BwcnAACXAAD/ICDHAACwAADlAACKAAD/UlL/GxszAADeAAD/Kiq0CAhHAAC8AADUAADHAADmAADlAAAqAACqAADYISHiICD+4uL/z8//np7+ICBRAADmAAD/ICDUQ/JsAAAAa3RSTlP/AP8DGtby//8B/+zZ/WrO5orUFrDgyRMOttf/wf///8bmoTOe/wgB///d/2///z4GwpcN//8xVbYEuj4be1LV/wvCuarO7/+U///UYQ2HxbKg5Xb//wXZ/5oroMK70uMenKC9Cf//0ULZyf0TxV0AAAEFSURBVHicxZPXcsIwEEWv5SQESCihQwjpvffeQ3rv9N7+/wMwg2dYS9i8wXnbvUea1UiC1IEuC2a5iZkXdm3OnDv/ai/3q9hrl4fuaaftSFEhXbwPQ4/RjIS5uG6ssLGOKf31DSpYNsxxgk1jYRJvpLJElnghiXEqhFa+OOEGI6QyDTJ2O68RqhjiBBY+HyOttCgwVrxvtSbwKwrhVSqIO8x8k9aHMOT2jmbIRc0xTaGFCJ1QIYV9UllKf9pYuU9kSfXAx8A1PsUm5QVrxsIpfq6M8rNnSMcJ/fwx1ni0B3t3AW/Q47BGB1SiVocn6A38P221nr1c8PtcfSoun39W7s3Xa0sdaCkaxrOUg0QAAAAASUVORK5CYII="
+        },
+        "8": {
+          "id": 8,
+          "index": 6,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1662316286049,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.youtube.com/watch?v=9xiX-I5_LQY&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=34",
+          "title": "Handling Mixed Variables | Feature Engineering - YouTube",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABRFBMVEX/AAAAAAD////////+4eH+ICD+Bwf/FBT/6+v////+BwfYAAD/AACdIiL+Bwe2ISHYAAD+6OjlBwfdISHsBwf+5OT/7e3/FRXICAjmBwf/+/v+ICDOAAD/7+//Bwf/eHjbAADoAAC0AABHAAD/ERH/m5uCAAD/JCT/8vLlAADTICD/AAD/29v/ZmZSAAAXAAD/ICDYAACnAAAnExP/zMz/RERoJCRvICDHAAA/Pz/eICByCQn/398qAACPAABmAADnAAD/dHQqAAD3ICDRAAC9AAD+Bwf/qqquCAj/S0v/AgLhAADeAAB+BwcnAACXAADHAACwAADlAACKAAD/UlL/FxczAADlAAC0CAj/KipGAAC8AADUAADMAADmAADlAAAvAACqAAD/GxvYISHiICD+4uL/z8//np7+ICBRAADmAAD/ICATL+18AAAAbHRSTlP/AP8DGtby//8B7Nn9auaK1BbJsOATD/+21//Owf///8bmoSv//2///92eAf//PgvFwpcN//8xPrsEulUIHntS1f8Gwrmq7/+U///O2WENh7Kg5Xb//wXUmv8zoMK20uMbnP+gvQn//9FC2cm69QgPAAABBklEQVR4nMWT13LCMBBFr+UkBBIg1FBCSO+99x7Sew+9t/9/xwyeYS1h8wbnbfceaVYjCVIbOiyY5QZmXtix2rOu3Fqw1KsSrF4euBbs1l1FhbT6Ngg9Ro4lLEZ1Y4X1C/zrr69TxoxhjhNsGAsTeCXVcHiKF/YwRoXA0icnPGCIVKZ+xm5mNUIFA5zAQuejpJUUBcYKd83WOB5FIbRMBXGH6QxpvQtDbm1rhpzXHNMUmAvTCRUSiJPqq/injZX7RJpU93wMXONDbFJesGIsnOL7yig/e4aUiunnP5P1R7t/eOtz+t02S6RPJWKxuf1O3+/TZvPZy3mvx9Gj4vB4j+TufL2W1ADwthsmB4ngAQAAAABJRU5ErkJggg=="
+        },
+        "9": {
+          "id": 9,
+          "index": 7,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1662316286280,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://datatofish.com/rows-with-nan-pandas-dataframe/",
+          "title": "Select all Rows with NaN Values in Pandas DataFrame - Data to Fish",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABYlBMVEUAAAAo0/8lwOgewv8VFRYiyf8nzfgmy/Udwf4n0PwAAAAUFBUcwP8UFBUkweon0v8fxP8kvucQEBkkzP8csegjpsomxu8UFBUVFRglxO4lz/8ewf4TExYVv+kgncQVFRUYXHcbsuoWN0QZTGYewv4ZfKEjpsoVFRUlv+gcQlAYYn4cVmkAv/8dwv8ewv4NDQ0A//8bptoUFBYfV2weV2wdw/8gd5MzzP8dxP8lwOgjsdYfVmwUFBUijawUFBYaV2slwuodv/sUFBYUFBQo0/4kwugkwOodwv4cwfoUFBUkz/8fVWomyfMTExciiacgbYcfv/cil7gUFBYXFxckwuoeV2sew/Aewv4eV20AzP8iVW4eW3Ejy/4VFhcUFBYhfpoewv4dw/8gZX0VFRkew/8REREdw/4ewv8lwekVFRUeVmwVGhwjosQVFRUkwukgWGodV20jnsEVFRUmyPIVFRYhx/+epqe4AAAAdnRSTlMA/////////8f/AvQ1h0z///4e//////hU///+Zwz/snGJ/wrr/9486sj/NQS2hhMC/8X9bJr/BSPTpbzp/5Im//98VrBcivs+pZEY/03/////uRaYyRHDdAUe8/7/z//0Rf6Mjg/NKvHAO//9gWE3I/9q/7b/dYDpswAAAPdJREFUeJxjGAUkAwNzPJI8euEq0swJaSk8WKU9OJjhgCMRRSoViHW8YoSFWUsFYEp00xHyEnYMDJEujBDAL8UKUeRuagGW5fI14hZiYAhhgyoAAalSsBJpDkUFJ08bFhZeBgY+JiYxTiQl/KxABY4iqtksQCCuz8BgyQQEkuxIajgDRAy1YkHyLPJAi/IEQSqYmBzEfNjZ2NjYiyWZmOSUwNIsLHEgp/BpQFTAgaiZsWZykUxukDgLizpIRZhbBlxSUNQvKdTEG+LHYF7uTAhL1tVKLacw0DbeP9o6ogApmIRKJOBsZXvtrPwoLvRAdsYTP6OAJAAAmlAeH3ugzsAAAAAASUVORK5CYII="
+        },
+        "10": {
+          "id": 10,
+          "index": 8,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1662747370061,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://technical.city/en/cpu/Athlon-X2-7750-BE",
+          "title": "Athlon X2 7750 BE - Technical City",
+          "favIconUrl": "data:image/webp;base64,UklGRhIBAABXRUJQVlA4IAYBAAAQBgCdASogACAAPtFkqk8oJaQiKAqpABoJbACdMuIgtdQIH8k/WlKxBQRY/FE1kQX6bLFquc3l4qAA/vVm2tlX8PnS5QlH2mfXrFrY3es9eaGla0WDIzXoDGOg9fuCs6OTkK9/CFcQo5Prip49rjjnUPZXMqs92z7i6xNpTrrMkskNDsd7WvTXf2ytNocJ5IjuPrzgdT7nhWTdK1IHWwWWtPQ38dWwykqakSUWszgWDxWCdwXaehj4U+syawHuqOJ+3+BnebNdrBx8AkrIn/EkJ4OBTN6jT6jQ/Bk+JzvMWy5bRqmtjRo2NkaXwbak5jwcNRJLTk7qStsHvNsNmc8ZvVZOrAAA"
+        },
+        "11": {
+          "id": 11,
+          "index": 9,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": true,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1662152546393,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.freelancer.in/contest/collect-some-information-from-the-internet-2147289",
+          "title": "Collect some information from the internet | Freelancer",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADgklEQVRYR+1WPWhTURT+zn2pqR0U/CM4dHAQmrS1uIhRHFoJ/iRURKRDFenkUIo4iIiIiBQRBxFxEAcpDsVBJYlVQhUHKQ4ibdMfLEVCKQ6lFKlSS5J3j+fFpH3Wvr60adXBl+G9JPec77vf+c65j5iZ8Bcv+k/gvwL/pALVUQRZ4ZICHiTDeObWJFVRPCwjdGZJnwZTE4G+WTHSXx4wl9vjiWhMs34NqHceL7ocuyAQ06MM2gGQJsIT6dUORXjbfxRfCgn3vMKmr98RJXAQjJQBOmMCbwRaPvMXE30yGN0ZggDj7ccwPhf+Jf9TbtAGsgLy2dCYzmzGTO0+zAwnsF2n0SyZNmhonwGMaa16hxrnFfHHcIkUWpkxKYA+pXFO8mhNuEOMl4rRY3rQNXQEY04qUtVTPkUGd+QYE81KYFaep0FISQlEBXnWOi13+ao2iRIVKEM7svDJbyFRZdRkTIncqoxRrrzotFL1hTDjVrocpGXCmmimzVSe27/otjA6Py+JKS3rWpj4kX2JIsqKEjpL2GGX2I3EnAfESBdJcbsbCXHESUlaz4rP2tfm+BFNBcLY9hjQbsBzHrC3YSCGq2KfK47BTD1S4+uy0S5B+2WZVUKDKDEQxqFiwedKYA/wx/UNqcqF306on1tsEj8cg5K73ea5zUNsQXdF/raSCFjBNTF0mODmBYkS0ti3xDWJxQAsApqpbTiCuyUTsBJIi0Wln8OFZEpRvdbcKsofd/KJrDk0cBSLEnQiteRxXBWTSQWWmtJj2eF98Ue3s0lJm4TK5XTAoh5YyDQQNxPMRqcAN4n8Bx13QjQ+GEblcuQvioC1qDaKyxnF12RIOV4K9HIggiNrQiA/89/IwVK9GIAMoXGZ9Qf6IkitCYFdUezMeFBJGjdlbtTZQSxwWodgMoTx5YIXXwIxY1rBV6EQSpt4r5nztaaU4cWBlYIXTcAfR7+YUOTX97ykbqeZRyR4QlVQbbIBEyvZeSHG9a24Lo7tAvhTXhk2chg9Y40OGBgYCmO0FPCiFJDdnxTz5Y7YPIdvgxHaUCpw0QoEorglJ9/53AAijJQbtP/DYUz+OQJxfMg5n2iE1yM43ICp1QJ3LcHuF9gymxWzMfcqg+rt74OrRWJJE1Y/x2U2uWXjVvL37MXsaoHa8yxJQOp/Ql4s3yUbVzZkiiHs2obFJCllzV8n8ANXPJzzS73XxwAAAABJRU5ErkJggg=="
+        },
+        "12": {
+          "id": 12,
+          "index": 10,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": true,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1662321110841,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.upwork.com/nx/find-work/best-matches",
+          "title": "Upwork",
+          "favIconUrl": "data:image/png;base64,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"
+        },
+        "13": {
+          "id": 13,
+          "index": 11,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": true,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1662242375667,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "file:///home/abhishek/Downloads/Job%20description.pdf",
+          "title": "Job description.pdf"
+        },
+        "14": {
+          "id": 14,
+          "index": 12,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": true,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1662320831128,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "about:newtab",
+          "title": "New Tab",
+          "favIconUrl": "chrome://branding/content/icon32.png"
+        },
+        "15": {
+          "id": 15,
+          "index": 13,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1662852177947,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.cpu-upgrade.com/cgi-bin/SearchSite.pl?SEARCH=amd+Phenom+II+X2+565&PROCESS=Search",
+          "title": "CPU-Upgrade: CPU-Upgrade: Site Search results",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAoklEQVQ4T2NkYGD4D8RkA0aYAQcOHMAwxMHBgeHAhACchjsUbGAAGwDSbG9vj6GQkZERboCCggBc/sGDD2A2hgGJiYkohixYsIB0A0CakAHMCxS7AFtAkB0GMMMUAhZAAhEkQCgWkL2A1QByEwLYBQkJCVj1g2MBGsWgGALxQWrnz5/PcPDgQQZQOhliBsD8SZYX0AOJ6DDAF8UgOXg6IDcaAXVllAE7miQfAAAAAElFTkSuQmCC"
+        },
+        "16": {
+          "id": 16,
+          "index": 14,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1662852794953,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.cpu-upgrade.com/cgi-bin/SearchSite.pl?SEARCH=AMD+Opteron+4240&PROCESS=Search",
+          "title": "CPU-Upgrade: CPU-Upgrade: Site Search results",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAoklEQVQ4T2NkYGD4D8RkA0aYAQcOHMAwxMHBgeHAhACchjsUbGAAGwDSbG9vj6GQkZERboCCggBc/sGDD2A2hgGJiYkohixYsIB0A0CakAHMCxS7AFtAkB0GMMMUAhZAAhEkQCgWkL2A1QByEwLYBQkJCVj1g2MBGsWgGALxQWrnz5/PcPDgQQZQOhliBsD8SZYX0AOJ6DDAF8UgOXg6IDcaAXVllAE7miQfAAAAAElFTkSuQmCC"
+        },
+        "17": {
+          "id": 17,
+          "index": 15,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1662752643497,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.cpu-upgrade.com/CPUs/AMD/Opteron_4200_series/4240.html",
+          "title": "CPU-Upgrade: AMD Opteron 4240 CPU",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAoklEQVQ4T2NkYGD4D8RkA0aYAQcOHMAwxMHBgeHAhACchjsUbGAAGwDSbG9vj6GQkZERboCCggBc/sGDD2A2hgGJiYkohixYsIB0A0CakAHMCxS7AFtAkB0GMMMUAhZAAhEkQCgWkL2A1QByEwLYBQkJCVj1g2MBGsWgGALxQWrnz5/PcPDgQQZQOhliBsD8SZYX0AOJ6DDAF8UgOXg6IDcaAXVllAE7miQfAAAAAElFTkSuQmCC"
+        },
+        "18": {
+          "id": 18,
+          "index": 16,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1662752430016,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.cpu-upgrade.com/CPUs/AMD/Opteron_4200_series/4238.html",
+          "title": "CPU-Upgrade: AMD Opteron 4238 CPU",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAoklEQVQ4T2NkYGD4D8RkA0aYAQcOHMAwxMHBgeHAhACchjsUbGAAGwDSbG9vj6GQkZERboCCggBc/sGDD2A2hgGJiYkohixYsIB0A0CakAHMCxS7AFtAkB0GMMMUAhZAAhEkQCgWkL2A1QByEwLYBQkJCVj1g2MBGsWgGALxQWrnz5/PcPDgQQZQOhliBsD8SZYX0AOJ6DDAF8UgOXg6IDcaAXVllAE7miQfAAAAAElFTkSuQmCC"
+        },
+        "19": {
+          "id": 19,
+          "index": 17,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1662854825590,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.eatyourbytes.com/cpu-detail/amd-ryzen-5-pro-3600/",
+          "title": "Detail of AMD Ryzen 5 PRO 3600",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUCNwECKQECMAEcOBgYNBEiPxsEPQISXQZOhTw5WDAJPQMoRh0RSQhIfzY0Uyk7dClmnlRtpVsYZQmg0Y5ScExBei0CQwFUhkMKUANIZUIZUAwCIwFDXj0RLwsmdBI8WDYMQgVOb0IILwZfeVsvTCt4rmVXd0xCYjcnZBe43ak5WyMycyIdWA8ISQO/4LNSczxkgV40UDCTxoAOVgSMw3un1JZ0qWKZzYdUozpMaUcgcA0dOhQGKAZZk0aHu3UtZxsrRydckEt/t2uw1aIqSyIvfRkjXxRZdlNQgTtAXi5rhWc4cSUNKAxGaTpWjEZUjkFflk4hPg9sil9Qhj5xjmsBGgELIQlLni8ULhJDejEybh4xTydCkihEmCgzaCQ/Zw0VNwwkRRRKaTIWQwtXeTEwUR2v3p6cyIuFpDIzhRxbmUV9nChTdB5njkxEhi94kXM7iyEBBwFWfhFiihSEnYOOqTxKbzJ0mhdSbyh5lVJjfzI+jyR9sG9apUKjulJLhTcrpLwXAAADpElEQVR4nD2TZ2/iaBzE/35cMc0G2xRjeu8tNBMg1KUGQgqB5NJ725ot2dx+9UM6aV/O6CfNaKQBYtdz+TN1eRlduVwZR4g0GEjiLHr26+H79y8nJyefoReMnl0YuygqlG3jlMHNcDFWqz2N3j48uv9ZUieQ2W3nCtmPVOgp6Hk9dxeYXMwJqvbXt0frZvY+MYOvaQOwpgpF/nzypE5j9yBTzpys/rh9BIp2WkdgExwyRnck5el1xwHvJgxDzgrCydlZFUt0chgMdtIEot8S8qXF00iUaIRQ5Y5StFpiH0u80Rh8HexmEH1sxVLjPmE9oAFB5U2qEoSiYNZjGkHPtlKR6cCKPELqNHdsAqCcxwkvObuKYtaDtcyQ2uAayIHgeVVzbxWKku6OElX1KvrDmzswUZD2921QKdGgGjS49WNHkhKlO0kJrc6uEF2qSOAbvPjA+W6iGoKwkDpHJincrEikph3SINO7UwIh7XOAs2QCX/rFheijUuFm2wq4X2PQeE2lNeDb7ZW9JmfO6+lrbCRFd547OYkct9sGdZRz0gCeHRuJsxSrtIVe2begElYrRYyDfr+qEl6KUuD8VXAMHAs8kwkOyuWgbYFVM7tjDYmTK3x/1LiCmXbsCdqUcrrnspWjqXTa1bP5DGMNYQi62u3VDF56V5cph0MTyoz8QkMNObRCRhCCIY3LoCVUrQLpQap/ihBGOhb7DdeCxOWqOhZWhlWGqK5tBVYunO3GYl0Wb/h9ZcUdr3cv8PUKfgLisVhYB/tV3XOttcENdVXc77XrAzdcDFxl/4iNBVqtwDMgnZht8YEit3TLMnufTyabRt2IJFD9dzLAFwMQX3JJzig283+6FHKL8/t88zCO7cn27UhANPJZMB7WWnNR5M3ToQ7YuvgnX9OHkQx1PjkVxU0z6Oc35rlez2/wh3aE7OK8mGXqgLmNzchUr9/aAGayUZwwDH8d0NsxmR1OzMXJkAWdPh+ZMsz0GizTDfOWxVKI/J7b5T1U31pLoxvsH/LXnMXCRcCyVTRPLZZ15Q8Xe/ty9y9Qu+YtFj6y7lAzcwxTi0xFdtSQ4/9HYKyxYA6sk5MQFrlik9mOZJkwRmqqdqaYndfRHtadZPMT/U0L2PhhIbuRbG0a3fj6DO7DWk0fl89VdsjlzZEkB3soLt4X+PnQrgx8fReqb24P2f6/D6e64TZf2DTCp0+YLrxchnVyxucgyREbj+vUb7dfPs/c3eWybv8PbRmxJK7xDFIAAAAASUVORK5CYII="
+        },
+        "20": {
+          "id": 20,
+          "index": 18,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1662813596145,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.google.com/search?q=release+date+of+athlon+320ge&client=firefox-b-d&sxsrf=ALiCzsZg0zzetrOzYipDIUU-QL3TqcBVJQ%3A1662812355527&ei=w4AcY7faH-m74-EP3p23-As&ved=0ahUKEwj3x53emor6AhXp3TgGHd7ODb8Q4dUDCA0&uact=5&oq=release+date+of+athlon+320ge&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECc6BAgAEEc6BQgAEKIEOgcIABAeEKIESgQIQRgASgQIRhgAUOoFWNUfYKAjaAFwAngAgAGZAYgBtQSSAQMwLjSYAQCgAQHIAQfAAQE&sclient=gws-wiz",
+          "title": "release date of athlon 320ge - Google Search",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFZUlEQVRYR71XDUyUdRj/vXdyBwfHyYeKimlEIYSDpCI/ckxWWNmX9qG2liaZpUtNc7SGZk6TOTdZthXoXE601mZbLWe6cIvBMChkls0MkJwf+I1yx3Fw9/b7v7738r7HwR2M9b89d++9/+f5Pb//8zz/LwlhNlmWY6k61+fzzZYkKYvPKRS7an6bvy3UaTSZTD/z+UfqiHchmxRKg6BpdFpEwAWUyFD6op82nZSDJLONNmcHsumXAAFsdLyZAKso5nAcB+oQo4eyk0Q2EKMzGEZQAjR6gPIdjTKG4jgIkVPEmkf5J7CvDwE6nkr5icqJgcreSxfQdfwouhvq0dPaDF/7LRFvmGIdME9MgSVrKqz5c2AeP6EPb2JeJeaTlJP6TgMBdeTVgc69ly/CWfYZuqoqFYcDNkmCdUYeopevgjlpnEFVJTFdHwmNADujKb8Ght197DA6Sksgu4OmsF8uUpQN9rUfwZr3RCAJkY5cf01oBLxe7w4Wy/t6bdfXX8G5+/Mhl0FkwVzYP9jQx57Fvd1sNq8XHQoBMdUof+qrXYz8TsnHQZ2PSEmF5dHpMI8dTwQJ3osX4KmrQU9T74yLfOZF2FcXKf3BZgd9pYtUKL0c/V6OfrFfURTbzcKFkLvcBlvhMIaglpzcoMQ89bW4s2MLrDPzELNi7YCRYxT2MAqFEkfuoFzWLzLO0vfg+qHWABCRngnH1lJIdv/iFxxfdjkh2aJDpo0+XfSZJAgsonaF30LubIa3KgOuyrHoqh+lvDbFJyCu/ABMjriQwINUWCAx/LsZ/qV+Q9+5T+Fr2qj89fw1Eq7DExGzaiNEQQ13YxrKJH7VMRQPa/n/vQDyzeOaL9/tZFie/RsYMWK4/YviPyEIXCeBeD96TxVXMU+b5kwa8xLMmQf6dZ6/1Rk2seIXrMjL6B2IsjCRgIcEIjQCldzwZJ8GappUBNN9nwwLgaV5FiyarrkSEfD8rwRenxmBxbMs2mD8BK4xAgn9pmD0fJinHByWCCzPt+DlXEMElBQYi7BhDuQb3HTU1mZJx+gZvyHCNLgibLnqQ2G5cf/YOM+KWZMNNXAiyDQs4TQsVtwf6UpGyZ0srHtkJZ5PyQ+72ITiN7XdKKv0GGwqVtiQ5OhdmpVpyDwspJZW5nLnObhrMrCzIwOH3JMUgPhIBw4U7EBC5MiwSHS4ZSz5shM3nL1b9z2JJuxdFhVo/6ogEKsuxVrvztrNqGhtNChPjkvBrrxiOCwDL8XdXqD4Wzfqmvmga28z/68Y8y+W4jH+zWgPV8M3/fqXnFex4MgauHqMm1GSLRHrc97C4+Nygkbi7K1WlPxSi5Y/nmJ/7zEyPlrCvneiEGUxhL+cm9Ey/3Z8P6Nwmoy0CjnSWoXi2tKgjibFjse0pIcwISaJu62EK53X0XDlNBqvnYHMj9mdClvbSkg9d/eOTfMjMTOtlxB9davbcZP+QLKdUVin97j/zPcoPbkvrLwHKkleO6La3sWSnCzD3Bd6LL5tHP2H4ll/JLMpa7MkZerBjv5bjS11XzAdgzuSmXmSL0x/DYVTnjNwE5cX+niMouQ38FCaSoUadt7dh9V22XUNuxr349j5avhCHUppkzP6QazOfgOicPWN2G3EFofSZv/7YMfybCoeDSQhDERxChJ1bafQ1H4eN7valUOyw2rHRPs4ZI+ajPzkaUiLu7dP2lTnBcQ1TK/+LiYiEoeoPGVIBRBgpIZdXEy0kfcbAX8HjaJYLJtotEY/OwZDSFQ7RZy2BY5xTqtA4VxOU9XL6UKC2MIhIM57lAo6LqFN00A2IQnoIiKWwKcDrucOtb+dv80i1Or1/DAdd4RD9j/w5nJL3xmBhgAAAABJRU5ErkJggg=="
+        },
+        "21": {
+          "id": 21,
+          "index": 19,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1662847871476,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.programiz.com/python-programming/methods/string/endswith",
+          "title": "Python String endswith()",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUAAACTJ/5lAeViAd5jAeEFl+oAo/8CnvcBoftnAOWTKP6VKf9kAuUAo/4Ao/6TJ/8Dm+uUJ/4FmOs/Pz+hK/5nAOUAovU9QOsFmesjau1lAeNhCOWjLP9YFeYDn/gApvMDnPSCGfJnAekAoOwDnPIbdu+WKP47AIgFU39hAd1JAaZ8Fu0FnfQeDy0OY5t/KtT///+jK/5LCal/I90/EmQEZp4zD1ZSArgAQ11kAeJZFOZXA8QEnPEDXI4cd+yXJ/+cKf4/f79UHOiUJ/+cKf9xHMYGpP5VIogcdfKIJOt2H85uH7xWGedbAc9nAes3Suo/P39cDoyPJPsFoPgtEkgARVicLP9LAqpnCdkFmOuhKv+IKu5HFngzADNmAeiIH/ajK/4Xe+5fBc9gAdpILuqgKv5zCvFRAbZtCuUrXOgFpP8GovsOi+kFnfShKv5aEeSkK/9qBuMVgPGZKf6RJf1pB+FRIuecKf4Ao/JyDuhlAeelLP8ApvcFpP6dLf8CoPhPgmBnAAAAgHRSTlMA////////////hP+/v4CA//3ABLbA//9///b/bf+A/4D/8v///+c4LvSi/5cREhIBnxtkHHpBWhOG40a/hH4g4wS/VL8JcQ+/xKJR/63U/wRF9MQcNzl5G4R9HjkF31r4/zCZ/9fuk/n/h8+P91/zh56/y////4x+/9w5/9civ7ekEa8AAAE/SURBVHictdBlU8MwGMDxUiFkBVbG2rGNMaa4u7u7u7u721cnzdLepU15w+15lev/d09z4VLT43aRGcgnn+jZGMvLIDP4zSYNSZNcVzFFzXjSEN4P9pKJB3NJ4SJTDL30mkuaZ5lkzmuI3dtGRl9qHVk/Mn9jy6XnX8Mct1knyxi4LLm660KS1vTTzjwWbir3NS0ASZIK0LHk7jSiL6FB5RXKOqgv3xYE8e1RtgAP7rHLk3coCmieIrIdKMrZTUAUMRCECvqSHkWJ+UNBnkcgJY6XKdAZTzzz+hBQ1rZVS4H7Q4g7EQer1kfKNjoCgal92yNyqtH5qNphz2gDjhBGp1tYmQDIt6+wMwYQTs50O3V0SRjy7YVfHYEa9CXCWrzYEfT7NQ0A4AxGP1EGoMgR/OD+B8jJwpP7D5CJJx3gF6v7Jxh+WnGJAAAAAElFTkSuQmCC"
+        },
+        "22": {
+          "id": 22,
+          "index": 20,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1662854248570,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://data36.com/python-nested-loops-if-statements-combined-data-sciene/",
+          "title": "Python For Loops and If Statements Combined (Data Science Tutorial)",
+          "favIconUrl": "data:image/webp;base64,UklGRtIBAABXRUJQVlA4WAoAAAAQAAAAHwAAHwAAQUxQSN4AAAABkHJt27FZ19gz2UpMk75pznbzL7BtK9u2k23btrn56v42ekRMAP6T92fsx5MuSjTN4Fb2n5egaOEBSBZak6UVFxcXF4VahNpSbf7gVhbbp4ggLjv7lscPLzthFz/4pyYaiOkYKySRETHnbNcQmVNIATD9zoZuKvgx9oBBMgVGBFBAJsPwBLLIbBkrQCeV4ivjChil0NHSCvj+g3kDNT8KvqfoB+9mYdVmTvwGBgaep6ff+BjWQ/A0sMmnCWISgWbjG/Ox3D8GRJx2+RCL+qoxaI/X19fXN46mTSTwfwVWUDggzgAAADAHAJ0BKiAAIAA+0VqpTigkpCIoCqkAGglsAMUHkPktEYpgDWAPQA/QDrHv2w9HQH6YW7QuXdc/rmszWQB7RtTkwAD3BBq5WTJnwlR4YsdMACWLZ+pTH69Yql8tCjG0Onr1ykry6tY2wn+x2a03jvUX9nv1qjwTnM77dXCgFtWtSVHW8BQY8PzNxPng0rAfeAG3ig6MD/+J4xFSXG29L9u7S6sF4z3p87uHDeDFoB2ZINev/wnQMaUrNGtmoM089iDegufFr5mJaPWsPQAA"
+        },
+        "23": {
+          "id": 23,
+          "index": 21,
+          "windowId": 1,
+          "highlighted": true,
+          "active": true,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1920,
+          "height": 967,
+          "lastAccessed": 1663061901671,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://addons.mozilla.org/en-US/firefox/addon/tab-session-manager/",
+          "title": "Tab Session Manager – Get this Extension for 🦊 Firefox (en-US)",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEZ0lEQVRYR7VXTWxUVRT+7n3TmWkrMVqKFkGdls5QNaBkxhkSQaBlAoGgxpW6UBdGTYxx49LoApdqWMnCRI3BlTGIUhOI0sTYzF9bNGrfPCgM4F8gVKxVoJ1513Pn+Trv9d03P7TeZBbvnnPP+e6553znDINzjV1Yh/LsgxBtvyHZNwLGhEtufxREByr6exBsL20dQ1/Xs+ju/kupKzfHz2zF/PU10MLjiEd0px6rfgjBUDj1NiqVVxaEnOeRiG4hENddhn8XnSgVv6BD22r7/Fv03brbA0KIALLGCcB8aEFXYwcRj71EdityzwKQN95xObe1NWxHYmBk4bB0fl4/ChMPe2+rAJGbSsCcy3l0JYjE+hctAD9d6MfMrKEMXzDwCDb1H6nKLoqbcNYYhjC3+IYaBKI3ugur2Kx1scltqIAioFjhwH24v/9HhuzkkxA4pDbK9iO1/jVcurQCU9PDrlD6onBEomC8jHLlgFKV8WeQjH3IkDm9HZj/WqnEuaBwj4IjBtNc6X/zxRJ+EVxMwBSDJAkoz2lamnLsOKsmYN7IkoNE8w6WqMlZAYlYkhLRtKsghHwpBTbXCcY3oGzup3BrS3RTO865CcFfBS+PA/wfsOgE4mzeSkLVyha/omTbsWwAGP+G3nuryp4XgEy4s9NT9CTdywaA8ytoC0bwQOTKYptuALLUzhhfNpftLcKTxMYDOxHv+9N5sgZAksw5cl63zlt06lXPAqvSSHXN2CILgOR2Ux9WM9ySnboNUOGjd2Xapm3qAeS8XDzq5vZlduqhCTaKSNcuCUIy4cfEhE/8zy695hk/TJXxGAVEp/cQKzwaHJdhsneJBYvEav30PM/Rr6chUJnxwnyf+O97lHE3Xe4FOnObwv48NaSQBPAJAXjcpSCJI9R2Dzb2Fhf29fOrMfP3MQJxry8Ixn+GFqRMd/T8QqkH5tXTdK7DfY4PIxXbw9Rdjv1KTegOj6PcL2thznxH+7d4QfBraNcS2LjuB48sMzlGe5sc+2MIhYckL1hV4OnzrEQAIsqbZvWD1D+eV8g+RWrAHUlbKTc5ShHYXP3k/CTC4R3YcNcf8rPGA9UxyzhE77eXdt9EcuANJYD8qddRKStk7ACBrk1UzsNWW36LvGfAOh9Fcs1lW+ylYiHaqUtd9X3njP4Z5cw+RVqPEABq7T5Lsqw9qDhU1M1osQ0J6mQphPLcPsrqD6hPqM9p/GnEox/5DrMKbPUBVGcF/URLDCkrCOY1KuEcArG03Xb9AlMfQGHqTrr1Od+wNhSENyMVydRTa/wEKp5o6Pi/bE9E4/b4fWMRkKeECNJsf5jCursZv1UdxokrOged2X7jACwQIeT0I5SA6YYgZJ333D6ItTdPN9R18UAjbVkJeeNzqgA56aoXxwR6Vg8167warEZ+XfL6rXscHR1DNsM1a7c1ANKqanKSY3a4Pd2q89YjYF/L+ptGhGPugcmPIxR8SjVwNhOF1iPgtCqJyu8vfDPeSedfhkiQLz97JNAAAAAASUVORK5CYII="
+        },
+        "24": {
+          "id": 24,
+          "index": 22,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1920,
+          "height": 967,
+          "lastAccessed": 1663061885773,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "moz-extension://20afb6e1-3927-4f3e-b27e-87a6444f347a/options/index.html#information?action=updated",
+          "title": "Tab Session Manager",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAsUlEQVRYR2M027TpPwMdANCSCaf9/ArRrWKklwNAFmNzBF0dgM0RdHcAuiMwHHDS1xclmsw3byYqhSDrQ9azzdWVIfP4cYaHX76gmAOLDpo7AOSwtz9+4HQEXRwA8jouR9DNATBHeO3ejRIVdHUAyGb0NDV8HIArqxDKVVQLAZo5gKhCgARFJKcBEswmSumoA0ZDYDQERkNgNARGQ2A0BAiGAFF1KhUVDUjPCNn9ow4AAKLr6dNXMeb1AAAAAElFTkSuQmCC"
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1": {
+        "id": 1,
+        "focused": true,
+        "top": 28,
+        "left": 0,
+        "width": 1920,
+        "height": 1052,
+        "incognito": false,
+        "type": "normal",
+        "state": "maximized",
+        "alwaysOnTop": false,
+        "title": "Tab Session Manager – Get this Extension for 🦊 Firefox (en-US) — Mozilla Firefox"
+      }
+    },
+    "tabsNumber": 23,
+    "name": "Tab Session Manager – Get this Extension for 🦊 Firefox (en-US)",
+    "date": 1663061901668,
+    "lastEditedTime": 1663061901668,
+    "tag": [],
+    "sessionStartTime": 1663061885719,
+    "id": "745adfc4-de8b-4cfe-b543-f59ebac1bae7"
+  }
+]

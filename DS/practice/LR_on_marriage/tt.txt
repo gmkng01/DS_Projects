@@ -1,0 +1,1 @@
+ipython ipywidgets tqdm numpy pandas jinja2 scipy joblib scikit-learn pyod imbalanced-learn category-encoders lightgbm numba requests psutil markupsafe importlib_metadata matplotlib scikit-plot yellowbrick plotly kaleido schemdraw plotly-resampler statsmodels sktime tbats pmdarima
